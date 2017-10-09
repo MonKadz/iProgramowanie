@@ -1,1 +1,2 @@
 # iProgramowanie
+print ("Miłego dnia")
